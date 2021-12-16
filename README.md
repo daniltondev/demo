@@ -1,5 +1,5 @@
 # Demo
 
-- Learning GIIthub
+## - Learning GIIthub
 
-1 = I know how to push 
+  1 - I know how to push 
